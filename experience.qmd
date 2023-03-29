@@ -1,0 +1,156 @@
+---
+title: "Experience"
+---
+
+## Software Developer - Spin - (10/2018 - 04/2022)
+
+:::{.callout-note  collapse="false" }
+
+# Developing software on industrial sector, mainly carbon and pharma
+
+- Legacy and new software.
+
+- Managing all the cycle of development.
+
+- Collaboration with team of engineers.
+- Customer interaction skills.
+- Deal with requerimients and needs of the costumer and project management.
+
+- .Net Framework and SQL server. others languages: c++, Android, Java.
+
+:::
+
+## Consultor - Altran (03/2017- 10/2018)
+
+:::{.callout-note  collapse="false" }
+
+## Support, operation and maintenance on banking sector.
+
+- SEPA, Bolsa, CRM, operativa bancaria diaria.
+- Use data mart software.
+- Integrations with BdE: CIRBE, SEPBLAC,...
+- Enviroment host, web y SAP.
+- Tecnologies:  .Net, C#, asp, ASP.net, Oracle, Sql Server, T-SQL
+
+:::
+
+## Sotware Developer - Semi telecontrol (02/2016-02/2017)
+
+:::{.callout-note  collapse="false" }
+
+# Software developer SCADA.
+
+- Development of evolutionary, maintenance, architecture changes, reengineering, migrations,... of various remote control applications within the electrical sector, especially scada.
+- Real time software. Graphic libraries: gdi/gdi+
+
+- Languages: VB, Visual C++.
+
+:::
+
+## Operations - ESMA-DATA (05/2015-12/2015)
+
+:::{.callout-note  collapse="false" }
+
+# Management, support, integration and development on electronic comerce platform.
+
+- Development of internal tools to manage support costumers tasks.
+- Platform compound of : 
+    - web.
+    - windows service.
+    - webservices
+    - Biztalk server.
+- Support issues Level2. European customers.
+- Installation and configuration.
+- Consultant about integration:
+
+```{mermaid}
+flowchart LR
+A[ERP client source] --> B[Biztalk]
+B --> C[ERP client destine ]
+
+```
+
+Files exchange formats: EDIFACT,IDOC, XML,PLANO,...
+
+- comunicative skills with customers.
+
+- People management:
+One person fully in charge, giving specific work instructions and another person giving guidance and support when necessary.
+
+- Tecnologies : C#, SQL Server, .Net . web, desk and console app with webservices.
+- Metodologies : Desing patterns, OOP, SOLID, Unit Test, SourceSafe.
+
+:::
+
+## [Freelance (2004-2014)](freelance.qmd)
+
+## Software developer - LinialSoft - (7/7/03 al 7/6/04)
+
+:::{.callout-note  collapse="false" }
+
+# Software developer with Visual C++ MFC
+
+- Furniture and interiorims sector
+- Support customers and learning to explain how works a software design. 
+
+:::
+
+## Software developer -  Gematic S.A. -(9/7/01-15/7/02)
+
+:::{.callout-note  collapse="false" }
+
+Developing software about management, commercial, accounting and industrial software.
+
+:::
+
+
+## Junior developer -  OACE Servicios Informáticos SL. (05- 2001)
+
+:::{.callout-note  collapse="false" }
+
+Changing software to adapt it to euro in Bank, Credito Andorrano
+Locate in Andorra.
+
+:::
+
+## Web Developer - Bvirtual - (11/00 - 3/01)
+
+:::{.callout-note  collapse="false" }
+
+# Projects:
+
+- Target1(site que gestione totalmente solo)
+- Fontvella, Lanjarón, 
+- Vet24(tienda-online), Kutxa(hipoteca online)
+
+Tecnologie: asp / sql server.
+:::
+
+## Software AG como programador junior.	1/00 - 9/00
+
+:::{.callout-note  collapse="false" }
+
+ Realicé una migración de los aplicativos de Comercial Union de plataforma Host a Unix; he colaborado en la adecuación del año 2000 de los aplicativos de la universidad Rovira Virgili y colaboré, por último, en la adecuación del euro de un aplicativo del Gobierno de Cantabria.
+ Además estuve programando con Bolero/Tamino, realizando servlets en dicho lenguaje e incluso algo con java.
+
+:::
+
+# (Support, helpdesk and system)
+
+## SPICERS	10/2/03 - 28/2/03
+
+:::{.callout-note  collapse="false" }
+
+De estuve en SPICERS, mayorista de productos relacionados con la oficina, desarrollé actividades de sistemas, programación de scripts (WSH) y asistencia a usuarios.
+
+## SBS	3/99 - 11/99
+
+Estuve en una empresa de servicios (SBS Software Bussines Solutions) desarrollando actividades como técnico de sistemas y administrador de redes, en la plataforma NT con servidores Netfinity de IBM. Dentro de estas actividades impartía cursos de formación a los empleados de las empresas donde implantábamos nuestras soluciones.
+
+## AHTEC	2/02/98 - 15 /12/98
+Estuve en el servicio post-venta y ofreciendo asistencia técnica telefónica o in situ.
+
+## BULL-UPC	15/5/97 - 2/98
+Estuve como operador de comunicaciones en la red de la UPC y ofreciendo asistencia a los usuarios
+:::
+

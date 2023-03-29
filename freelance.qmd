@@ -1,0 +1,92 @@
+---
+title: "Freelance"
+subtitle: PYMES Consultor
+---
+
+# Resume
+
+- Support, helpdesk, maintenance, systems.
+- Developping software .Net ( VB, c#, sql server, access, winforms, ado.net)
+
+# 2010-2014 software developer:
+
+Como Analista Programador en .Net, me encargaba de todo el proceso de desarrollo.
+Hablar con los usuarios, coger los requerimientos, desarrollar, probar con el usuario, implantar, mantener, etc.
+
+Todo sabiendo la idea general de la necesidad pero realizando pequeñas funciones para que el usuario rápidamente pudiera trabajar.
+Estaba en contacto directo con el cliente/usuario.
+
+En todas las empresas he tratado directamente con el usuario final. Primero con el departamento IT si lo había y por si había que hacer tareas con servidores. Después las especificaciones y funciones las trataba con los usuarios directamente.
+Entregaba pequeñas funcionalidades y una vez validadas se realizaban las siguientes según un orden de prioridades cambiante.
+
+> Tecnologías usadas: .Net, winforms, ADO.net, access y sql server.
+
+### La empresa de importación/exportación, AlonsGar, S.L. (2012-2014)
+
+Tras analizar el modelo de negocio y las funciones a realizar se estimó hacerla en Visual Basic para las pantallas pero con Access para la base de datos.
+
+Funciones de la empresa de comercio internacional: Creación de contratos, Apropiación de embarques y facturación del proceso comercial (comisiones y mercancías).
+ 
+
+### Empresa química, Evonik Degussa Ibérica. (2010-2014)
+
+En la química en departamentos como logística, recambios, control de documentación de contratistas, gestión de incidencias en la planta química y realización de una intranet para una gestión documental.
+
+### Logística: proyecto de 6 meses.
+
+Se trataba de mantener el estoc de unos productos, mediante la gestión de su entrada y salida del almacén y las ubicaciones.
+
+#### control de documentación de contratistas: 6 meses
+
+- Las empresas que entraban a trabajar en la planta, necesitaba unos requirimientos de documentación, que el programa controlaba, así como sus caducidades.
+- gestión de incidencias en la planta química : 1 año.
+- Según unos protocolos internos y normativa ISO adecuada, se realizó un programa para gestionar las incidencias y las acciones correctivas que se llevaban a cabo.
+- Realización de una intranet para una gestión documental: 3 meses
+en asp y base de datos SQL server, realicé una intranet para la gestión de avisos y consulta de documentación interna.
+
+
+### Centro Médico Aribau. (2010-2012)
+
+Funciones en el centro médico: gestión de agendas, control de la documentación de los pacientes, gestión de la ficha clínica y la primera visita, registro de las visitas realizadas y facturación de las visitas.
+(Otros proyectos más esporádicos o lejanos).
+
+
+### Vitosoft (2008-2010)  
+
+Realicé un programa de gestión de proyectos para arquitectos (vb con sql server) y el mantenimiento en asp/sql server de una intranet de gestión de horas.
+
+### Empresa distribuidora de productos de belleza. (2004-2005)
+
+Gestión de Stock y pedidos. Programación en Access.
+
+## Technician. (2004-2010)
+
+### Clientes propios. (2004-2010)
+
+Mantuve los sistemas informáticos de una treintena de profesionales y pymes de
+
+### Vitosoft (2008 - 2010)
+
+Colaboré con Vitosoft-empresa de servicios informáticos- como técnico, soporte a usuario, mantenimiento informático.
+
+###  Cruz Roja de Cornellà.	(2005-2010)
+
+Llevé la Dirección informática, sin ánimo de lucro.
+
+### Proyectos como técnico (colaboré con T-Systems): (2007-2007)
+
+- Dos meses en jornada completa intensiva en cliente Mancomunitat.
+- Para migración microinformática en Seat, un mes.
+- Sustitución de una semana en Jazztel.
+- Inventariado de las oficinas del Banc Sabadell.
+- Dos meses en jornada completa intensiva en cliente Emergències de la Generalitat
+
+### Gestión informática de Distribuciones Cosméticas Mareva, S.L. (2005-2006)
+
+
+## Teacher - (2004 - 2010) 
+
+- Formación en ofimática a los comerciantes de Cornellà, durante tres años.
+- Profesor en la academia de informática CAF Centre d’Estudis Informàtics durante un año y  medio.
+- Diversas formaciones en ofimática, groupware y programas de gestión, para la empresa GPF Gestió Programes de Formació S.L., en clientes como : Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain.
+Sin quitar importancia al resto, destacar la formación en La Seda de Barcelona a 150 empleados en Outlook 2003

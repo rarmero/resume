@@ -1,0 +1,71 @@
+---
+title: "Education"
+format: html
+---
+
+## Main
+
+- BUP- COU.
+- CFGS Desarrollo de Aplicaciones Informáticas. 1996
+- Ingeniería técnica de Gestión - UOC
+  (in the absence of three first-year subjects and the final degree project)
+
+  Attendend from 1999 to 2005
+
+
+## CIFO La Violeta - Barcelona (Sept/22 - July/2023)
+
+- App web. Java, SpringBoot, React. -(550h)
+- Devops.(100h)
+- Scrum. (200h)
+
+## Microsoft Learning (Juny-Sept 2022)
+
+### Software Engineering
+
+1. Microservices with .Net an Asp.Net Core.
+2. Web apps and services with Asp.net core, API and .Net.
+3. Build .Net app with C#
+4. Get started on a DevOps transformation journey
+5. Az-900
+6. Introduction a React.
+7. AI-900
+8. PL-900
+9. Introduction to Asp.net SignalR
+
+### Data science
+
+- Azure Synapse Analytics
+- DP-203 Ingeniería de datos con Azure
+- DP-100 Ciencia de datos con Azure
+- Power BI
+- Python
+
+
+## Altran
+
+### Cursos de desarrollo personal
+- La comunicación: la conversación, 10h
+- Toma de decisiones , 8h
+- Inteligencia Emocional y Situacional, 10h
+- Gestión de la resilencia, 8h
+
+## Cursos técnicos
+
+- JIRA Admin, 20h
+- Developing Microsoft Azure Solutions (20-532)
+- Procesos de prueba ISTQB
+- Analisis de requisitos, 10h
+- Ingles
+    - goFluent, 18 h (B2)
+    - MyOxford English, 40h (B1)
+
+
+## Mobile (feb. de 2014 - mar. de 2015)
+
+- ios, android and windows
+
+## Others
+
+- Diciembre del 2002: curso de domótica, de 260 h, en Sauter Ibérica, S. A.
+- CNAP de Cisco.(sistemas operativos de red - routers)
