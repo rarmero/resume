@@ -7,7 +7,7 @@ title: "Experience"
 Web Backend developer. Virtual class room maintenance.
 
 Tecnologies: 
-Net , C#, Blazor, Razor, Web APIDDD LINQ, SQL Server, MongoDB.Unit Testing
+Net , C#, Blazor, Razor, Web API, DDD LINQ, SQL Server, MongoDB.Unit Testing
 
 ## Infomed	(06/2022 - 07/2022)
 

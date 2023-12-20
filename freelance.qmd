@@ -1,12 +1,12 @@
 ---
 title: "Freelance"
-subtitle: PYMES Consultor
+subtitle: PYMES Consultor & Analyst/Developer
 ---
 
 # Resume
 
 - Support, helpdesk, maintenance, systems.
-- Developping software .Net ( VB, c#, sql server, access, winforms, ado.net)
+- Developping software .Net ( VB, C#, sql server, access, winforms, ado.net)
 
 # 2010-2014 software developer:
 
