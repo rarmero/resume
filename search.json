@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Education\nExperience\nFreelance"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Web Backend developer. Virtual class room maintenance.\nTecnologies: Net , C#, Blazor, Razor, Web API DDD  LINQ, SQL Server, MongoDB. Unit Testing"
+  },
+  {
+    "objectID": "experience.html#infomed-062022---072022",
+    "href": "experience.html#infomed-062022---072022",
+    "title": "Experience",
+    "section": "Infomed (06/2022 - 07/2022)",
+    "text": "Infomed (06/2022 - 07/2022)\nTransfer of data from applications in the dental sector to the new application that customers purchased. Tecnologies: sql. T-sql"
+  },
+  {
+    "objectID": "experience.html#software-developer---spin---102018---042022",
+    "href": "experience.html#software-developer---spin---102018---042022",
+    "title": "Experience",
+    "section": "Software Developer - Spin - (10/2018 - 04/2022)",
+    "text": "Software Developer - Spin - (10/2018 - 04/2022)\n\n\n\n\n\n\nDeveloping software on industrial sector, mainly carbon and pharma\n\n\n\n\n\n\nLegacy and new software.\nManaging all the cycle of development.\nCollaboration with team of engineers.\nCustomer interaction skills.\nDeal with requerimients and needs of the costumer and project management.\n.Net Framework and SQL server. others languages: c++, Android, Java."
+  },
+  {
+    "objectID": "experience.html#consultor---altran-032017--102018",
+    "href": "experience.html#consultor---altran-032017--102018",
+    "title": "Experience",
+    "section": "Consultor - Altran (03/2017- 10/2018)",
+    "text": "Consultor - Altran (03/2017- 10/2018)\n\n\n\n\n\n\nSupport, operation and maintenance on banking sector.\n\n\n\n\n\n\nSEPA, Bolsa, CRM, operativa bancaria diaria.\nUse data mart software.\nIntegrations with BdE: CIRBE, SEPBLAC,…\nEnviroment host, web y SAP.\nTecnologies: .Net, C#, asp, ASP.net, Oracle, Sql Server, T-SQL"
+  },
+  {
+    "objectID": "experience.html#sotware-developer---semi-telecontrol-022016-022017",
+    "href": "experience.html#sotware-developer---semi-telecontrol-022016-022017",
+    "title": "Experience",
+    "section": "Sotware Developer - Semi telecontrol (02/2016-02/2017)",
+    "text": "Sotware Developer - Semi telecontrol (02/2016-02/2017)\n\n\n\n\n\n\nSoftware developer SCADA.\n\n\n\n\n\n\nDevelopment of evolutionary, maintenance, architecture changes, reengineering, migrations,… of various remote control applications within the electrical sector, especially scada.\nReal time software. Graphic libraries: gdi/gdi+\nLanguages: VB, Visual C++."
+  },
+  {
+    "objectID": "experience.html#operations---esma-data-052015-122015",
+    "href": "experience.html#operations---esma-data-052015-122015",
+    "title": "Experience",
+    "section": "Operations - ESMA-DATA (05/2015-12/2015)",
+    "text": "Operations - ESMA-DATA (05/2015-12/2015)\n\n\n\n\n\n\nManagement, support, integration and development on electronic comerce platform.\n\n\n\n\n\n\nDevelopment of internal tools to manage support costumers tasks.\nPlatform compound of :\n\nweb.\nwindows service.\nwebservices\nBiztalk server.\n\nSupport issues Level2. European customers.\nInstallation and configuration.\nConsultant about integration:\n\n\n\n\n\nflowchart LR\nA[ERP client source] --> B[Biztalk]\nB --> C[ERP client destine ]\n\n\n\n\n\n\n\n\n\nFiles exchange formats: EDIFACT,IDOC, XML,PLANO,…\n\ncomunicative skills with customers.\nPeople management: One person fully in charge, giving specific work instructions and another person giving guidance and support when necessary.\nTecnologies : C#, SQL Server, .Net . web, desk and console app with webservices.\nMetodologies : Desing patterns, OOP, SOLID, Unit Test, SourceSafe."
+  },
+  {
+    "objectID": "experience.html#freelance-2004-2014",
+    "href": "experience.html#freelance-2004-2014",
+    "title": "Experience",
+    "section": "Freelance (2004-2014)",
+    "text": "Freelance (2004-2014)"
+  },
+  {
+    "objectID": "experience.html#software-developer---linialsoft---7703-al-7604",
+    "href": "experience.html#software-developer---linialsoft---7703-al-7604",
+    "title": "Experience",
+    "section": "Software developer - LinialSoft - (7/7/03 al 7/6/04)",
+    "text": "Software developer - LinialSoft - (7/7/03 al 7/6/04)\n\n\n\n\n\n\nSoftware developer with Visual C++ MFC\n\n\n\n\n\n\nFurniture and interiorims sector\nSupport customers and learning to explain how works a software design."
+  },
+  {
+    "objectID": "experience.html#software-developer---gematic-s.a.--9701-15702",
+    "href": "experience.html#software-developer---gematic-s.a.--9701-15702",
+    "title": "Experience",
+    "section": "Software developer - Gematic S.A. -(9/7/01-15/7/02)",
+    "text": "Software developer - Gematic S.A. -(9/7/01-15/7/02)\n\n\n\n\n\n\nNote\n\n\n\n\n\nDeveloping software about management, commercial, accounting and industrial software."
+  },
+  {
+    "objectID": "experience.html#junior-developer---oace-servicios-informáticos-sl.-05--2001",
+    "href": "experience.html#junior-developer---oace-servicios-informáticos-sl.-05--2001",
+    "title": "Experience",
+    "section": "Junior developer - OACE Servicios Informáticos SL. (05- 2001)",
+    "text": "Junior developer - OACE Servicios Informáticos SL. (05- 2001)\n\n\n\n\n\n\nNote\n\n\n\n\n\nChanging software to adapt it to euro in Bank, Credito Andorrano Locate in Andorra."
+  },
+  {
+    "objectID": "experience.html#web-developer---bvirtual---1100---301",
+    "href": "experience.html#web-developer---bvirtual---1100---301",
+    "title": "Experience",
+    "section": "Web Developer - Bvirtual - (11/00 - 3/01)",
+    "text": "Web Developer - Bvirtual - (11/00 - 3/01)\n\n\n\n\n\n\nProjects:\n\n\n\n\n\n\nTarget1(site que gestione totalmente solo)\nFontvella, Lanjarón,\nVet24(tienda-online), Kutxa(hipoteca online)\n\nTecnologie: asp / sql server."
+  },
+  {
+    "objectID": "experience.html#software-ag-como-programador-junior.-100---900",
+    "href": "experience.html#software-ag-como-programador-junior.-100---900",
+    "title": "Experience",
+    "section": "Software AG como programador junior. 1/00 - 9/00",
+    "text": "Software AG como programador junior. 1/00 - 9/00\n\n\n\n\n\n\nNote\n\n\n\n\n\nRealicé una migración de los aplicativos de Comercial Union de plataforma Host a Unix; he colaborado en la adecuación del año 2000 de los aplicativos de la universidad Rovira Virgili y colaboré, por último, en la adecuación del euro de un aplicativo del Gobierno de Cantabria. Además estuve programando con Bolero/Tamino, realizando servlets en dicho lenguaje e incluso algo con java."
+  },
+  {
+    "objectID": "experience.html#spicers-10203---28203",
+    "href": "experience.html#spicers-10203---28203",
+    "title": "Experience",
+    "section": "SPICERS 10/2/03 - 28/2/03",
+    "text": "SPICERS 10/2/03 - 28/2/03\n\n\n\n\n\n\nNote\n\n\n\n\n\nDe estuve en SPICERS, mayorista de productos relacionados con la oficina, desarrollé actividades de sistemas, programación de scripts (WSH) y asistencia a usuarios.\n\nSBS 3/99 - 11/99\nEstuve en una empresa de servicios (SBS Software Bussines Solutions) desarrollando actividades como técnico de sistemas y administrador de redes, en la plataforma NT con servidores Netfinity de IBM. Dentro de estas actividades impartía cursos de formación a los empleados de las empresas donde implantábamos nuestras soluciones.\n\n\nAHTEC 2/02/98 - 15 /12/98\nEstuve en el servicio post-venta y ofreciendo asistencia técnica telefónica o in situ.\n\n\nBULL-UPC 15/5/97 - 2/98\nEstuve como operador de comunicaciones en la red de la UPC y ofreciendo asistencia a los usuarios"
+  },
+  {
+    "objectID": "experience.html#sbs-399---1199",
+    "href": "experience.html#sbs-399---1199",
+    "title": "Experience",
+    "section": "SBS 3/99 - 11/99",
+    "text": "SBS 3/99 - 11/99\nEstuve en una empresa de servicios (SBS Software Bussines Solutions) desarrollando actividades como técnico de sistemas y administrador de redes, en la plataforma NT con servidores Netfinity de IBM. Dentro de estas actividades impartía cursos de formación a los empleados de las empresas donde implantábamos nuestras soluciones."
+  },
+  {
+    "objectID": "experience.html#ahtec-20298---15-1298",
+    "href": "experience.html#ahtec-20298---15-1298",
+    "title": "Experience",
+    "section": "AHTEC 2/02/98 - 15 /12/98",
+    "text": "AHTEC 2/02/98 - 15 /12/98\nEstuve en el servicio post-venta y ofreciendo asistencia técnica telefónica o in situ."
+  },
+  {
+    "objectID": "experience.html#bull-upc-15597---298",
+    "href": "experience.html#bull-upc-15597---298",
+    "title": "Experience",
+    "section": "BULL-UPC 15/5/97 - 2/98",
+    "text": "BULL-UPC 15/5/97 - 2/98\nEstuve como operador de comunicaciones en la red de la UPC y ofreciendo asistencia a los usuarios"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "BUP- COU.\nCFGS Desarrollo de Aplicaciones Informáticas. 1996\nIngeniería técnica de Gestión - UOC (in the absence of three first-year subjects and the final degree project)\nAttendend from 1999 to 2005"
+  },
+  {
+    "objectID": "education.html#cifo-la-violeta---barcelona-sept22---july2023",
+    "href": "education.html#cifo-la-violeta---barcelona-sept22---july2023",
+    "title": "Education",
+    "section": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)",
+    "text": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)\n\nApp web. Java, SpringBoot, React. -(550h)\nDevops.(100h)\nScrum. (200h)"
+  },
+  {
+    "objectID": "education.html#microsoft-learning-juny-sept-2022",
+    "href": "education.html#microsoft-learning-juny-sept-2022",
+    "title": "Education",
+    "section": "Microsoft Learning (Juny-Sept 2022)",
+    "text": "Microsoft Learning (Juny-Sept 2022)\n\nSoftware Engineering\n\nMicroservices with .Net an Asp.Net Core.\nWeb apps and services with Asp.net core, API and .Net.\nBuild .Net app with C#\nGet started on a DevOps transformation journey\nAz-900\nIntroduction a React.\nAI-900\nPL-900\nIntroduction to Asp.net SignalR\n\n\n\nData science\n\nAzure Synapse Analytics\nDP-203 Ingeniería de datos con Azure\nDP-100 Ciencia de datos con Azure\nPower BI\nPython"
+  },
+  {
+    "objectID": "education.html#altran",
+    "href": "education.html#altran",
+    "title": "Education",
+    "section": "Altran",
+    "text": "Altran\n\nCursos de desarrollo personal\n\nLa comunicación: la conversación, 10h\nToma de decisiones , 8h\nInteligencia Emocional y Situacional, 10h\nGestión de la resilencia, 8h"
+  },
+  {
+    "objectID": "education.html#cursos-técnicos",
+    "href": "education.html#cursos-técnicos",
+    "title": "Education",
+    "section": "Cursos técnicos",
+    "text": "Cursos técnicos\n\nJIRA Admin, 20h\nDeveloping Microsoft Azure Solutions (20-532)\nProcesos de prueba ISTQB\nAnalisis de requisitos, 10h\nIngles\n\ngoFluent, 18 h (B2)\nMyOxford English, 40h (B1)"
+  },
+  {
+    "objectID": "education.html#mobile-feb.-de-2014---mar.-de-2015",
+    "href": "education.html#mobile-feb.-de-2014---mar.-de-2015",
+    "title": "Education",
+    "section": "Mobile (feb. de 2014 - mar. de 2015)",
+    "text": "Mobile (feb. de 2014 - mar. de 2015)\n\nios, android and windows"
+  },
+  {
+    "objectID": "education.html#others",
+    "href": "education.html#others",
+    "title": "Education",
+    "section": "Others",
+    "text": "Others\n\nDiciembre del 2002: curso de domótica, de 260 h, en Sauter Ibérica, S. A.\nCNAP de Cisco.(sistemas operativos de red - routers)"
+  },
+  {
+    "objectID": "freelance.html",
+    "href": "freelance.html",
+    "title": "Freelance",
+    "section": "",
+    "text": "Support, helpdesk, maintenance, systems.\nDevelopping software .Net ( VB, c#, sql server, access, winforms, ado.net)"
+  },
+  {
+    "objectID": "freelance.html#technician.-2004-2010",
+    "href": "freelance.html#technician.-2004-2010",
+    "title": "Freelance",
+    "section": "Technician. (2004-2010)",
+    "text": "Technician. (2004-2010)\n\nClientes propios. (2004-2010)\nMantuve los sistemas informáticos de una treintena de profesionales y pymes de\n\n\nVitosoft (2008 - 2010)\nColaboré con Vitosoft-empresa de servicios informáticos- como técnico, soporte a usuario, mantenimiento informático.\n\n\nCruz Roja de Cornellà. (2005-2010)\nLlevé la Dirección informática, sin ánimo de lucro.\n\n\nProyectos como técnico (colaboré con T-Systems): (2007-2007)\n\nDos meses en jornada completa intensiva en cliente Mancomunitat.\nPara migración microinformática en Seat, un mes.\nSustitución de una semana en Jazztel.\nInventariado de las oficinas del Banc Sabadell.\nDos meses en jornada completa intensiva en cliente Emergències de la Generalitat\n\n\n\nGestión informática de Distribuciones Cosméticas Mareva, S.L. (2005-2006)"
+  },
+  {
+    "objectID": "freelance.html#teacher---2004---2010",
+    "href": "freelance.html#teacher---2004---2010",
+    "title": "Freelance",
+    "section": "Teacher - (2004 - 2010)",
+    "text": "Teacher - (2004 - 2010)\n\nFormación en ofimática a los comerciantes de Cornellà, durante tres años.\nProfesor en la academia de informática CAF Centre d’Estudis Informàtics durante un año y medio.\nDiversas formaciones en ofimática, groupware y programas de gestión, para la empresa GPF Gestió Programes de Formació S.L., en clientes como : Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain. Sin quitar importancia al resto, destacar la formación en La Seda de Barcelona a 150 empleados en Outlook 2003"
+  }
+]
