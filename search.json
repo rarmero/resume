@@ -123,21 +123,14 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "gantt\n    title Education\n    dateFormat  YYYY\n    section Main\n    CFGS     : 1996, 1y\n    UOC  :  2000, 5y\n    section Company\n    Soft skills : 2017  , 1y\n    Technical  : 2017  ,1y\n    English    : 2017  ,1y\n    CIFO : 2022,1y\n    section Self\n    Mobile : 2014, 1y\n    Software : 2022  , 1y\n    DataScience    : 2022  ,1y"
-  },
-  {
-    "objectID": "education.html#cifo-la-violeta---barcelona-sept22---july2023",
-    "href": "education.html#cifo-la-violeta---barcelona-sept22---july2023",
-    "title": "Education",
-    "section": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)",
-    "text": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)\nCourse documentation\n\nApp web. Java, SpringBoot, React. (550h)\nDevops.(100h)\nScrum. (200h)"
+    "text": "Course documentation\n\nApp web. Java, SpringBoot, React. (550h)\nDevops.(100h)\nScrum. (200h)"
   },
   {
     "objectID": "education.html#microsoft-learning-juny-sept-2022",
     "href": "education.html#microsoft-learning-juny-sept-2022",
     "title": "Education",
     "section": "Microsoft Learning (Juny-Sept 2022)",
-    "text": "Microsoft Learning (Juny-Sept 2022)\n\n\n\n\n\n\nWarning\n\n\n\nOnly reading not certificate\n\n\n\nSoftware Engineering\n\nMicroservices with .Net an Asp.Net Core.\nWeb apps and services with Asp.net core, API and .Net.\nBuild .Net app with C#\nGet started on a DevOps transformation journey\nAz-900\nIntroduction a React.\nAI-900\nPL-900\nIntroduction to Asp.net SignalR\n\n\n\nData science\n\nAzure Synapse Analytics\nDP-203 Ingeniería de datos con Azure\nDP-100 Ciencia de datos con Azure\nPower BI\nPython"
+    "text": "Microsoft Learning (Juny-Sept 2022)\n\n\n\n\n\n\nWarning\n\n\n\nOnly reading, not certificate\n\n\n\nSoftware Engineering\n\nMicroservices with .Net an Asp.Net Core.\nWeb apps and services with Asp.net core, API and .Net.\nBuild .Net app with C#\nGet started on a DevOps transformation journey\nAz-900\nIntroduction a React.\nAI-900\nPL-900\nIntroduction to Asp.net SignalR\n\n\n\nData science\n\nAzure Synapse Analytics\nDP-203 Ingeniería de datos con Azure\nDP-100 Ciencia de datos con Azure\nPower BI\nPython"
   },
   {
     "objectID": "education.html#altran-032017--102018",
@@ -201,5 +194,12 @@
     "title": "Freelance",
     "section": "Teacher - (2004 - 2010)",
     "text": "Teacher - (2004 - 2010)\n\nTeaching Microsoft Office packet to Cornellà merchants, for three years.\nTeacher on Academy CAF Centre d’Estudis Informàtics for a year and half.\nTraining on packet office, groupware and management software, for company GPF Gestió Programes de Formació S.L., with customers as: Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain."
+  },
+  {
+    "objectID": "metrics.html",
+    "href": "metrics.html",
+    "title": "Metrics",
+    "section": "",
+    "text": "Education\n\n\n\n\ngantt\n    title Education\n    dateFormat  YYYY\n    section Main\n    CFGS     : 1996, 1y\n    UOC  :  2000, 5y\n    section Company\n    Soft skills : 2017  , 1y\n    Technical  : 2017  ,1y\n    English    : 2017  ,1y\n    CIFO : 2022,1y\n    section Self\n    Mobile : 2014, 1y\n    Software : 2022  , 1y\n    DataScience    : 2022  ,1y\n\n\n\n\n\n\n\n\n\n\nSectors\nManagement, ERP, CRM, Administration, Bank, SCADA, industrial : Medicine, Carbon.\n\n\nSoftware development areas\n\n\n\n\npie title Areas\n   \"Host\" : 1\n    \"Desk\" : 54\n    \"web\" : 20\n    \"industrial\" : 17"
   }
 ]

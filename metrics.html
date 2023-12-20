@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>resume - Summary</title>
+<title>resume - Metrics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -58,6 +58,9 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -69,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Summary</h1>
+      <h1 class="quarto-secondary-nav-title">Metrics</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -112,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./metrics.html" class="sidebar-item-text sidebar-link">Metrics</a>
+  <a href="./metrics.html" class="sidebar-item-text sidebar-link active">Metrics</a>
   </div>
 </li>
     </ul>
@@ -120,14 +123,22 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#sectors" id="toc-sectors" class="nav-link" data-scroll-target="#sectors">Sectors</a></li>
+  <li><a href="#software-development-areas" id="toc-software-development-areas" class="nav-link" data-scroll-target="#software-development-areas">Software development areas</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Summary</h1>
+<h1 class="title d-none d-lg-block">Metrics</h1>
 </div>
 
 
@@ -142,11 +153,62 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Here you can find my career, organized in sections.</p>
-<p>About me: meticulous, demanding on my self, disciplined, organized, pragmatic and analytic.</p>
-<p>More information you can follow, <a href="https://www.linkedin.com/in/rafaelcarrion/">linkedin</a></p>
+<section id="education" class="level1">
+<h1>Education</h1>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<p>
+</p><pre class="mermaid mermaid-js" data-tooltip-selector="#mermaid-tooltip-1">gantt
+    title Education
+    dateFormat  YYYY
+    section Main
+    CFGS     : 1996, 1y
+    UOC  :  2000, 5y
+    section Company
+    Soft skills : 2017  , 1y
+    Technical  : 2017  ,1y
+    English    : 2017  ,1y
+    CIFO : 2022,1y
+    section Self
+    Mobile : 2014, 1y
+    Software : 2022  , 1y
+    DataScience    : 2022  ,1y
+</pre>
+<div id="mermaid-tooltip-1" class="mermaidTooltip">
+
+</div>
+<p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="sectors" class="level1">
+<h1>Sectors</h1>
+<p>Management, ERP, CRM, Administration, Bank, SCADA, industrial : Medicine, Carbon.</p>
+</section>
+<section id="software-development-areas" class="level1">
+<h1>Software development areas</h1>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<p>
+</p><pre class="mermaid mermaid-js" data-tooltip-selector="#mermaid-tooltip-2">pie title Areas
+   "Host" : 1
+    "Desk" : 54
+    "web" : 20
+    "industrial" : 17
+</pre>
+<div id="mermaid-tooltip-2" class="mermaidTooltip">
+
+</div>
+<p></p>
+</div>
+</div>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
