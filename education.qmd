@@ -3,24 +3,6 @@ title: "Education"
 format: html
 ---
 
-```{mermaid}
-gantt
-    title Education
-    dateFormat  YYYY
-    section Main
-    CFGS     : 1996, 1y
-    UOC  :  2000, 5y
-    section Company
-    Soft skills : 2017  , 1y
-    Technical  : 2017  ,1y
-    English    : 2017  ,1y
-    CIFO : 2022,1y
-    section Self
-    Mobile : 2014, 1y
-    Software : 2022  , 1y
-    DataScience    : 2022  ,1y
-````
-
 ## CIFO La Violeta - Barcelona (Sept/22 - July/2023)
 
 [Course documentation](https://rarmero.github.io/appwebcifolavioleta)
@@ -32,7 +14,7 @@ gantt
 ## Microsoft Learning (Juny-Sept 2022)
 
 :::{.callout-warning title="Notice"}
-Only reading not certificate
+Only reading, not certificate
 :::
 
 

@@ -1,0 +1,39 @@
+
+---
+title: "Metrics"
+format: html
+---
+
+# Education
+
+```{mermaid}
+gantt
+    title Education
+    dateFormat  YYYY
+    section Main
+    CFGS     : 1996, 1y
+    UOC  :  2000, 5y
+    section Company
+    Soft skills : 2017  , 1y
+    Technical  : 2017  ,1y
+    English    : 2017  ,1y
+    CIFO : 2022,1y
+    section Self
+    Mobile : 2014, 1y
+    Software : 2022  , 1y
+    DataScience    : 2022  ,1y
+````
+
+# Sectors
+
+Management, ERP, CRM, Administration, Bank, SCADA, industrial : Medicine, Carbon.
+
+# Software development areas
+
+```{mermaid}
+pie title Areas
+   "Host" : 1
+    "Desk" : 54
+    "web" : 20
+    "industrial" : 17
+```
