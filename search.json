@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Summary",
     "section": "",
-    "text": "Education\nExperience\nFreelance"
+    "text": "Here you can find my career, organized in sections.\nAbout me: meticulous, demanding on my self, disciplined, organized, pragmatic and analytic.\nMore information you can follow, linkedin"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Web Backend developer. Virtual class room maintenance.\nTecnologies: Net , C#, Blazor, Razor, Web API DDD  LINQ, SQL Server, MongoDB. Unit Testing"
+    "text": "Web Backend developer. Virtual class room maintenance.\nTecnologies: Net , C#, Blazor, Razor, Web APIDDD LINQ, SQL Server, MongoDB.Unit Testing"
   },
   {
     "objectID": "experience.html#infomed-062022---072022",
@@ -123,35 +123,42 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "BUP- COU.\nCFGS Desarrollo de Aplicaciones Informáticas. 1996\nIngeniería técnica de Gestión - UOC (in the absence of three first-year subjects and the final degree project)\nAttendend from 1999 to 2005"
+    "text": "gantt\n    title Education\n    dateFormat  YYYY\n    section Main\n    CFGS     : 1996, 1y\n    UOC  :  2000, 5y\n    section Company\n    Soft skills : 2017  , 1y\n    Technical  : 2017  ,1y\n    English    : 2017  ,1y\n    CIFO : 2022,1y\n    section Self\n    Mobile : 2014, 1y\n    Software : 2022  , 1y\n    DataScience    : 2022  ,1y"
   },
   {
     "objectID": "education.html#cifo-la-violeta---barcelona-sept22---july2023",
     "href": "education.html#cifo-la-violeta---barcelona-sept22---july2023",
     "title": "Education",
     "section": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)",
-    "text": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)\n\nApp web. Java, SpringBoot, React. -(550h)\nDevops.(100h)\nScrum. (200h)"
+    "text": "CIFO La Violeta - Barcelona (Sept/22 - July/2023)\nCourse documentation\n\nApp web. Java, SpringBoot, React. (550h)\nDevops.(100h)\nScrum. (200h)"
   },
   {
     "objectID": "education.html#microsoft-learning-juny-sept-2022",
     "href": "education.html#microsoft-learning-juny-sept-2022",
     "title": "Education",
     "section": "Microsoft Learning (Juny-Sept 2022)",
-    "text": "Microsoft Learning (Juny-Sept 2022)\n\nSoftware Engineering\n\nMicroservices with .Net an Asp.Net Core.\nWeb apps and services with Asp.net core, API and .Net.\nBuild .Net app with C#\nGet started on a DevOps transformation journey\nAz-900\nIntroduction a React.\nAI-900\nPL-900\nIntroduction to Asp.net SignalR\n\n\n\nData science\n\nAzure Synapse Analytics\nDP-203 Ingeniería de datos con Azure\nDP-100 Ciencia de datos con Azure\nPower BI\nPython"
+    "text": "Microsoft Learning (Juny-Sept 2022)\n\n\n\n\n\n\nWarning\n\n\n\nOnly reading not certificate\n\n\n\nSoftware Engineering\n\nMicroservices with .Net an Asp.Net Core.\nWeb apps and services with Asp.net core, API and .Net.\nBuild .Net app with C#\nGet started on a DevOps transformation journey\nAz-900\nIntroduction a React.\nAI-900\nPL-900\nIntroduction to Asp.net SignalR\n\n\n\nData science\n\nAzure Synapse Analytics\nDP-203 Ingeniería de datos con Azure\nDP-100 Ciencia de datos con Azure\nPower BI\nPython"
   },
   {
-    "objectID": "education.html#altran",
-    "href": "education.html#altran",
+    "objectID": "education.html#altran-032017--102018",
+    "href": "education.html#altran-032017--102018",
     "title": "Education",
-    "section": "Altran",
-    "text": "Altran\n\nCursos de desarrollo personal\n\nLa comunicación: la conversación, 10h\nToma de decisiones , 8h\nInteligencia Emocional y Situacional, 10h\nGestión de la resilencia, 8h"
+    "section": "Altran (03/2017- 10/2018)",
+    "text": "Altran (03/2017- 10/2018)\n\nSoft Skills\n\nThe communication: the conversation, 10h\nDecision making , 8h\nEmotional and Situational Intelligence, 10h\nResilence management, 8h"
   },
   {
-    "objectID": "education.html#cursos-técnicos",
-    "href": "education.html#cursos-técnicos",
+    "objectID": "education.html#technical-courses.",
+    "href": "education.html#technical-courses.",
     "title": "Education",
-    "section": "Cursos técnicos",
-    "text": "Cursos técnicos\n\nJIRA Admin, 20h\nDeveloping Microsoft Azure Solutions (20-532)\nProcesos de prueba ISTQB\nAnalisis de requisitos, 10h\nIngles\n\ngoFluent, 18 h (B2)\nMyOxford English, 40h (B1)"
+    "section": "Technical courses.",
+    "text": "Technical courses.\n\nJIRA Admin, 20h\nDeveloping Microsoft Azure Solutions (20-532)\nSoftware testing ISTQB\nRequirements analysis, 10h"
+  },
+  {
+    "objectID": "education.html#english",
+    "href": "education.html#english",
+    "title": "Education",
+    "section": "English",
+    "text": "English\n\ngoFluent, 18 h (B2)\nMyOxford English, 40h (B1)"
   },
   {
     "objectID": "education.html#mobile-feb.-de-2014---mar.-de-2015",
@@ -168,6 +175,13 @@
     "text": "Others\n\nDiciembre del 2002: curso de domótica, de 260 h, en Sauter Ibérica, S. A.\nCNAP de Cisco.(sistemas operativos de red - routers)"
   },
   {
+    "objectID": "education.html#main",
+    "href": "education.html#main",
+    "title": "Education",
+    "section": "Main",
+    "text": "Main\n\nBUP- COU.\nCFGS Desarrollo de Aplicaciones Informáticas. 1996\nIngeniería técnica de Gestión - UOC (in the absence of three first-year subjects and the final degree project)\nAttendend from 1999 to 2005"
+  },
+  {
     "objectID": "freelance.html",
     "href": "freelance.html",
     "title": "Freelance",
@@ -179,13 +193,13 @@
     "href": "freelance.html#technician.-2004-2010",
     "title": "Freelance",
     "section": "Technician. (2004-2010)",
-    "text": "Technician. (2004-2010)\n\nClientes propios. (2004-2010)\nMantuve los sistemas informáticos de una treintena de profesionales y pymes de\n\n\nVitosoft (2008 - 2010)\nColaboré con Vitosoft-empresa de servicios informáticos- como técnico, soporte a usuario, mantenimiento informático.\n\n\nCruz Roja de Cornellà. (2005-2010)\nLlevé la Dirección informática, sin ánimo de lucro.\n\n\nProyectos como técnico (colaboré con T-Systems): (2007-2007)\n\nDos meses en jornada completa intensiva en cliente Mancomunitat.\nPara migración microinformática en Seat, un mes.\nSustitución de una semana en Jazztel.\nInventariado de las oficinas del Banc Sabadell.\nDos meses en jornada completa intensiva en cliente Emergències de la Generalitat\n\n\n\nGestión informática de Distribuciones Cosméticas Mareva, S.L. (2005-2006)"
+    "text": "Technician. (2004-2010)\n\nown customers. (2004-2010)\nMaintenance the computer systems of about thirty professionals and middle companies.\n\n\nVitosoft (2008 - 2010)\nCooperation with Vitosoft -IT services company- as technician, support and IT maintenance.\n\n\nCruz Roja de Cornellà. (2005-2010)\nTI director, nonprofit.\n\n\nProjects as technician (cooperate with T-Systems): (2007-2007)\n\nTwo months at Mancomunitat de Barcelona.\nOne month at Seat.\nSubstitution one week at Jazztel.\nStocktaking at Banc Sabadell offices.\nTow months at Emergències (Generalitat de Catalonia)\n\n\n\nIT Management of Distribuciones Cosméticas Mareva, S.L. (2005-2006)"
   },
   {
     "objectID": "freelance.html#teacher---2004---2010",
     "href": "freelance.html#teacher---2004---2010",
     "title": "Freelance",
     "section": "Teacher - (2004 - 2010)",
-    "text": "Teacher - (2004 - 2010)\n\nFormación en ofimática a los comerciantes de Cornellà, durante tres años.\nProfesor en la academia de informática CAF Centre d’Estudis Informàtics durante un año y medio.\nDiversas formaciones en ofimática, groupware y programas de gestión, para la empresa GPF Gestió Programes de Formació S.L., en clientes como : Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain. Sin quitar importancia al resto, destacar la formación en La Seda de Barcelona a 150 empleados en Outlook 2003"
+    "text": "Teacher - (2004 - 2010)\n\nTeaching Microsoft Office packet to Cornellà merchants, for three years.\nTeacher on Academy CAF Centre d’Estudis Informàtics for a year and half.\nTraining on packet office, groupware and management software, for company GPF Gestió Programes de Formació S.L., with customers as: Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain."
   }
 ]
