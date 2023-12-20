@@ -10,83 +10,93 @@ subtitle: PYMES Consultor
 
 # 2010-2014 software developer:
 
-Como Analista Programador en .Net, me encargaba de todo el proceso de desarrollo.
-Hablar con los usuarios, coger los requerimientos, desarrollar, probar con el usuario, implantar, mantener, etc.
+From 2010 to 2014 at full time, as Analyst and Software developer .Net.
 
-Todo sabiendo la idea general de la necesidad pero realizando pequeñas funciones para que el usuario rápidamente pudiera trabajar.
-Estaba en contacto directo con el cliente/usuario.
+As analyst and developer, i deal with all life cycle of software.
 
-En todas las empresas he tratado directamente con el usuario final. Primero con el departamento IT si lo había y por si había que hacer tareas con servidores. Después las especificaciones y funciones las trataba con los usuarios directamente.
-Entregaba pequeñas funcionalidades y una vez validadas se realizaban las siguientes según un orden de prioridades cambiante.
+Talk with users, take requirements, develop, test, deploy and maintain.
 
-> Tecnologías usadas: .Net, winforms, ADO.net, access y sql server.
+All knowing the general idea of ​​the need but performing small functions so that the user could quickly work.
 
-### La empresa de importación/exportación, AlonsGar, S.L. (2012-2014)
+In all companies I have deal directly with the end user. First with the IT department if there was one and in this case it had to do tasks with servers. Then the specifications and functions dealt with the users directly.
 
-Tras analizar el modelo de negocio y las funciones a realizar se estimó hacerla en Visual Basic para las pantallas pero con Access para la base de datos.
+It delivered small functionalities and once validated, the following ones were carried out according to a changing order of priorities.
 
-Funciones de la empresa de comercio internacional: Creación de contratos, Apropiación de embarques y facturación del proceso comercial (comisiones y mercancías).
+> Technologies used: .Net, winforms, ADO.net, access y sql server.
+
+
+### Company about import/export, AlonsGar, S.L. (2012-2014)
+
+After analyzing the business model and the functions to be performed, it was estimated to do it in Visual Basic for the front end and with Access for the database.
+Functions of the international trade company:
+
+- Creation of contracts.
+- Appropriation of shipments.
+- Billing of the commercial process (commissions and merchandise).
  
 
-### Empresa química, Evonik Degussa Ibérica. (2010-2014)
+### Chemical company, Evonik Degussa Ibérica. (2010-2014)
 
-En la química en departamentos como logística, recambios, control de documentación de contratistas, gestión de incidencias en la planta química y realización de una intranet para una gestión documental.
+Departments such as logistics, spare parts, control of contractor documentation, incident management in the chemical plant and creation of an intranet for document management
 
-### Logística: proyecto de 6 meses.
+### Logistic: 6 months.
 
-Se trataba de mantener el estoc de unos productos, mediante la gestión de su entrada y salida del almacén y las ubicaciones.
+Stock management : store in/out and placement.
 
-#### control de documentación de contratistas: 6 meses
+#### documentation control relative to contractors: 6 months
 
-- Las empresas que entraban a trabajar en la planta, necesitaba unos requirimientos de documentación, que el programa controlaba, así como sus caducidades.
-- gestión de incidencias en la planta química : 1 año.
-- Según unos protocolos internos y normativa ISO adecuada, se realizó un programa para gestionar las incidencias y las acciones correctivas que se llevaban a cabo.
-- Realización de una intranet para una gestión documental: 3 meses
-en asp y base de datos SQL server, realicé una intranet para la gestión de avisos y consulta de documentación interna.
+- The companies that started working at the plant needed some documentation requirements, which the program controlled, as well as their expiration dates
+
+### Incident management in the chemical plant : 1 year.
+
+- In accordance with internal protocols and the appropriate ISO regulations, a program was created to manage the incidents and corrective actions that were carried out.
+
+### creation of an intranet for document management: 3 months
+
+- asp and date base SQL server
 
 
 ### Centro Médico Aribau. (2010-2012)
 
-Funciones en el centro médico: gestión de agendas, control de la documentación de los pacientes, gestión de la ficha clínica y la primera visita, registro de las visitas realizadas y facturación de las visitas.
-(Otros proyectos más esporádicos o lejanos).
+Functions in the medical center: agenda management, control of patient documentation, management of the clinical record and the first visit, registration of visits made and billing of visits.
 
 
 ### Vitosoft (2008-2010)  
 
-Realicé un programa de gestión de proyectos para arquitectos (vb con sql server) y el mantenimiento en asp/sql server de una intranet de gestión de horas.
+- project management software for architects (vb with sql server).
+- maintenance in asp/sql server of a time management intranet.
 
-### Empresa distribuidora de productos de belleza. (2004-2005)
+### Company of distribution of beauty products. (2004-2005)
 
-Gestión de Stock y pedidos. Programación en Access.
+Stock management and orders. Programming and database: Access.
 
 ## Technician. (2004-2010)
 
-### Clientes propios. (2004-2010)
+### own customers. (2004-2010)
 
-Mantuve los sistemas informáticos de una treintena de profesionales y pymes de
+Maintenance the computer systems of about thirty professionals and middle companies.
 
 ### Vitosoft (2008 - 2010)
 
-Colaboré con Vitosoft-empresa de servicios informáticos- como técnico, soporte a usuario, mantenimiento informático.
+Cooperation with Vitosoft -IT services company-  as technician, support and IT maintenance.
 
 ###  Cruz Roja de Cornellà.	(2005-2010)
 
-Llevé la Dirección informática, sin ánimo de lucro.
+TI director, nonprofit.
 
-### Proyectos como técnico (colaboré con T-Systems): (2007-2007)
+### Projects as technician (cooperate with T-Systems): (2007-2007)
 
-- Dos meses en jornada completa intensiva en cliente Mancomunitat.
-- Para migración microinformática en Seat, un mes.
-- Sustitución de una semana en Jazztel.
-- Inventariado de las oficinas del Banc Sabadell.
-- Dos meses en jornada completa intensiva en cliente Emergències de la Generalitat
+- Two months at Mancomunitat de Barcelona.
+- One month at Seat.
+- Substitution one week at Jazztel.
+- Stocktaking at Banc Sabadell offices.
+- Tow months at Emergències (Generalitat de Catalonia)
 
-### Gestión informática de Distribuciones Cosméticas Mareva, S.L. (2005-2006)
+### IT Management of Distribuciones Cosméticas Mareva, S.L. (2005-2006)
 
 
 ## Teacher - (2004 - 2010) 
 
-- Formación en ofimática a los comerciantes de Cornellà, durante tres años.
-- Profesor en la academia de informática CAF Centre d’Estudis Informàtics durante un año y  medio.
-- Diversas formaciones en ofimática, groupware y programas de gestión, para la empresa GPF Gestió Programes de Formació S.L., en clientes como : Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain.
-Sin quitar importancia al resto, destacar la formación en La Seda de Barcelona a 150 empleados en Outlook 2003
+- Teaching Microsoft Office packet to Cornellà merchants, for three years.
+- Teacher on Academy CAF Centre d’Estudis Informàtics for a year and half.
+- Training on packet office, groupware and management software, for company GPF Gestió Programes de Formació S.L., with customers as: Goldschmitd , La Seda de Barcelona, AGBAR, ACC Spain.

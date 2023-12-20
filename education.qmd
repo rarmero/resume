@@ -3,23 +3,38 @@ title: "Education"
 format: html
 ---
 
-## Main
-
-- BUP- COU.
-- CFGS Desarrollo de Aplicaciones Informáticas. 1996
-- Ingeniería técnica de Gestión - UOC
-  (in the absence of three first-year subjects and the final degree project)
-
-  Attendend from 1999 to 2005
-
+```{mermaid}
+gantt
+    title Education
+    dateFormat  YYYY
+    section Main
+    CFGS     : 1996, 1y
+    UOC  :  2000, 5y
+    section Company
+    Soft skills : 2017  , 1y
+    Technical  : 2017  ,1y
+    English    : 2017  ,1y
+    CIFO : 2022,1y
+    section Self
+    Mobile : 2014, 1y
+    Software : 2022  , 1y
+    DataScience    : 2022  ,1y
+````
 
 ## CIFO La Violeta - Barcelona (Sept/22 - July/2023)
 
-- App web. Java, SpringBoot, React. -(550h)
+[Course documentation](https://rarmero.github.io/appwebcifolavioleta)
+
+- App web. Java, SpringBoot, React. (550h)
 - Devops.(100h)
 - Scrum. (200h)
 
 ## Microsoft Learning (Juny-Sept 2022)
+
+:::{.callout-warning title="Notice"}
+Only reading not certificate
+:::
+
 
 ### Software Engineering
 
@@ -42,23 +57,26 @@ format: html
 - Python
 
 
-## Altran
+## Altran (03/2017- 10/2018)
 
-### Cursos de desarrollo personal
-- La comunicación: la conversación, 10h
-- Toma de decisiones , 8h
-- Inteligencia Emocional y Situacional, 10h
-- Gestión de la resilencia, 8h
+### Soft Skills
 
-## Cursos técnicos
+-  The communication: the conversation, 10h
+-  Decision making , 8h
+-  Emotional and Situational Intelligence, 10h
+-  Resilence management, 8h
+
+## Technical courses.
 
 - JIRA Admin, 20h
 - Developing Microsoft Azure Solutions (20-532)
-- Procesos de prueba ISTQB
-- Analisis de requisitos, 10h
-- Ingles
-    - goFluent, 18 h (B2)
-    - MyOxford English, 40h (B1)
+- Software testing ISTQB
+- Requirements analysis, 10h
+
+
+## English
+- goFluent, 18 h (B2)
+- MyOxford English, 40h (B1)
 
 
 ## Mobile (feb. de 2014 - mar. de 2015)
@@ -69,3 +87,19 @@ format: html
 
 - Diciembre del 2002: curso de domótica, de 260 h, en Sauter Ibérica, S. A.
 - CNAP de Cisco.(sistemas operativos de red - routers)
+
+## Main
+
+- BUP- COU.
+- CFGS Desarrollo de Aplicaciones Informáticas. 1996
+- Ingeniería técnica de Gestión - UOC
+  (in the absence of three first-year subjects and the final degree project)
+
+  Attendend from 1999 to 2005
+
+# Languages
+
+- Español: lengua materna.
+- Català: llegit i parlat, nivell alt. Escrit, mitjà.
+- English: reading, high. write, middle. Talk, low.
+- Français: lecture seulement, niveau faible.
