@@ -2,6 +2,18 @@
 title: "Experience"
 ---
 
+## Huxley	10/2023 - 11/2023
+
+Web Backend developer. Virtual class room maintenance.
+
+Tecnologies: 
+Net , C#, Blazor, Razor, Web API DDD  LINQ, SQL Server, MongoDB. Unit Testing
+
+## Infomed	(06/2022 - 07/2022)
+
+Transfer of data from applications in the dental sector to the new application that customers purchased.
+Tecnologies: sql. T-sql
+
 ## Software Developer - Spin - (10/2018 - 04/2022)
 
 :::{.callout-note  collapse="false" }
