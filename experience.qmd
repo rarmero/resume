@@ -2,7 +2,7 @@
 title: "Experience"
 ---
 
-## Huxley	10/2023 - 11/2023
+## Huxley	(10/2023 - 11/2023)
 
 Web Backend developer. Virtual class room maintenance.
 
@@ -111,6 +111,8 @@ One person fully in charge, giving specific work instructions and another person
 
 :::{.callout-note  collapse="false" }
 
+## PowerBuilder
+
 Developing software about management, commercial, accounting and industrial software.
 
 :::
@@ -119,6 +121,8 @@ Developing software about management, commercial, accounting and industrial soft
 ## Junior developer -  OACE Servicios Informáticos SL. (05- 2001)
 
 :::{.callout-note  collapse="false" }
+
+## Natural / Adabas
 
 Changing software to adapt it to euro in Bank, Credito Andorrano
 Locate in Andorra.
@@ -138,20 +142,24 @@ Locate in Andorra.
 Tecnologie: asp / sql server.
 :::
 
-## Software AG como programador junior.	1/00 - 9/00
+## Software AG like junior devolper. (1/00 - 9/00)
 
 :::{.callout-note  collapse="false" }
+
+## Natural / Adabas
 
  Realicé una migración de los aplicativos de Comercial Union de plataforma Host a Unix; he colaborado en la adecuación del año 2000 de los aplicativos de la universidad Rovira Virgili y colaboré, por último, en la adecuación del euro de un aplicativo del Gobierno de Cantabria.
  Además estuve programando con Bolero/Tamino, realizando servlets en dicho lenguaje e incluso algo con java.
 
 :::
 
-# (Support, helpdesk and system)
-
-## SPICERS	10/2/03 - 28/2/03
+# Others
 
 :::{.callout-note  collapse="false" }
+
+## (Support, helpdesk and system)
+
+## SPICERS	10/2/03 - 28/2/03
 
 De estuve en SPICERS, mayorista de productos relacionados con la oficina, desarrollé actividades de sistemas, programación de scripts (WSH) y asistencia a usuarios.
 
