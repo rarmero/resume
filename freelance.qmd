@@ -1,6 +1,7 @@
 ---
 title: "Freelance"
 subtitle: PYMES Consultor & Analyst/Developer
+categories: [software, consultor,technician, education]
 ---
 
 # Resume

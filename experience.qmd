@@ -1,5 +1,7 @@
 ---
 title: "Experience"
+format: html
+categories: [software development, legacy software, consultan]
 ---
 
 ## Huxley	(10/2023 - 11/2023)
