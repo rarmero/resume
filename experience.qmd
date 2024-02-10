@@ -4,14 +4,22 @@ format: html
 categories: [software development, legacy software, consultan]
 ---
 
-## Huxley	(10/2023 - 11/2023)
+## Applied Viability - AV Group (01/2024 - Present)
+
+Insurance Sector.
+Work in international enviroment.
+
+Tecnologies:
+.Net framework, .Net Core, .Net, SQL Server, T-SQL, API, Web App, JavaScript, C#, VB
+
+## Huxley (10/2023 - 11/2023)
 
 Web Backend developer. Virtual class room maintenance.
 
 Tecnologies: 
-Net , C#, Blazor, Razor, Web API, DDD LINQ, SQL Server, MongoDB.Unit Testing
+Net , C#, Blazor, Razor, Web API, DDD LINQ, SQL Server, MongoDB, Unit Testing
 
-## Infomed	(06/2022 - 07/2022)
+## Infomed (06/2022 - 07/2022)
 
 Transfer of data from applications in the dental sector to the new application that customers purchased.
 Tecnologies: sql. T-sql

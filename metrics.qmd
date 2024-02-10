@@ -26,7 +26,7 @@ gantt
 
 # Sectors
 
-Management, ERP, CRM, Administration, Bank, SCADA, industrial : Medicine, Carbon.
+Projects,invoicing, accounting, inventory, logistics , ERP, CRM, Administration, medical center, Bank, SCADA, Industrial : Medicine, Carbon. Integrations
 
 # Software development areas
 

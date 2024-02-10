@@ -86,3 +86,16 @@ Only reading, not certificate
 - Català: llegit i parlat, nivell alt. Escrit, mitjà.
 - English: reading, high. write, middle. Talk, low.
 - Français: lecture seulement, niveau faible.
+
+# Technical knowledge
+
+- C#, ASP, ASP.NET, VB, VB.NET, Java, C++,
+- .Net , SpringBoot
+- JS, Blazor, Razor, React, Angular, 
+- XML, JSON.
+- MVC, Web API,
+- DDD, Design Patterns, Entity Framework  
+- LINQ,T-SQL, SQL Server, Oracle, MySQL, MongoDB
+- Unit Testing
+- Mobile: IOS, Android.
+- Cloud : AWS, Azure.
