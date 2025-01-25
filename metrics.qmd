@@ -18,6 +18,7 @@ gantt
     Technical  : 2017  ,1y
     English    : 2017  ,1y
     CIFO : 2022,1y
+    Soft skills : 2024  , 1y
     section Self
     Mobile : 2014, 1y
     Software : 2022  , 1y
@@ -26,7 +27,7 @@ gantt
 
 # Sectors
 
-Projects,invoicing, accounting, inventory, logistics , ERP, CRM, Administration, medical center, Bank, SCADA, Industrial : Medicine, Carbon. Integrations
+Projects, invoicing, accounting, inventory, logistics, ERP, CRM, Administration, medical center, Bank, Insurance, SCADA, Industrial : Medicine, Carbon. Integrations
 
 # Software development areas
 
@@ -34,14 +35,14 @@ Projects,invoicing, accounting, inventory, logistics , ERP, CRM, Administration,
 |-----------|-------|
 |Host       | 1     |
 |industrial | 3     |
-|web        | 3     |
+|web        | 4     |
 |desk       | 10    |
 
 ```{mermaid}
 pie title Areas
    "Host" : 1
-    "Desk" : 54
-    "web" : 20
+    "Desk" : 40
+    "web" : 30
     "industrial" : 17
 ```
 
@@ -50,8 +51,8 @@ pie title Areas
 | Language  | years |
 |-----------|-------|
 | VB         | 5    |
-| VB.Net     | 5    |
-| C#         | 6    |
+| VB.Net     | 6    |
+| C#         | 7    |
 | C++        | 2    |
 | JS         | 3    |
 | Java       | 4    |

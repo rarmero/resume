@@ -84,18 +84,21 @@ Only reading, not certificate
 
 - Español: lengua materna.
 - Català: llegit i parlat, nivell alt. Escrit, mitjà.
-- English: reading, high. write, middle. Talk, low.
+- English: reading, high. write, middle. Talk, middle.
 - Français: lecture seulement, niveau faible.
+- Deutsch: starting.
+
 
 # Technical knowledge
 
-- C#, ASP, ASP.NET, VB, VB.NET, Java, C++,
+- C#, ASP, ASP.NET, VB, VB.NET, Java, C++
 - .Net , SpringBoot
-- JS, Blazor, Razor, React, Angular, 
+- JS, Blazor, Razor, React, Angular.
 - XML, JSON.
-- MVC, Web API,
-- DDD, Design Patterns, Entity Framework  
+- MVC, Web API.
+- DDD, Design Patterns, Entity Framework.
 - LINQ,T-SQL, SQL Server, Oracle, MySQL, MongoDB
-- Unit Testing
+- Unit Testing. TDD.
 - Mobile: IOS, Android.
 - Cloud : AWS, Azure.
+- Devops : AWS, Github Actions.

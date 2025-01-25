@@ -7,10 +7,25 @@ categories: [software development, legacy software, consultan]
 ## Applied Viability - AV Group (01/2024 - Present)
 
 Insurance Sector.
-Work in international enviroment.
+Working in an international environment.
+Comunications skills with stakeholders.
+
+Domains:
+Financial, Product.
+
+Purpouse: New developments and integrations.
 
 Tecnologies:
-.Net framework, .Net Core, .Net, SQL Server, T-SQL, API, Web App, JavaScript, C#, VB
+.Net framework, .Net Core, .Net
+Unit Testing;TDD
+SQL Server, T-SQL
+API, Web App, JavaScript. React.
+TFVC, GIT 
+PowerShell
+Jira
+Devops
+Documentation
+
 
 ## Huxley (10/2023 - 11/2023)
 
