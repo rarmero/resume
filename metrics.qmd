@@ -6,26 +6,8 @@ categories: [languages, areas, sectors]
 
 # Education
 
-```{mermaid}
-gantt
-    title Education
-    dateFormat  YYYY
-    section Main
-    CFGS     : 1996, 1y
-    UOC  :  2000, 5y
-    section Company
-    Soft skills : 2017  , 1y
-    Technical  : 2017  ,1y
-    English    : 2017  ,1y
-    CIFO : 2022,1y
-    Soft skills : 2024  , 1y
-    section Self
-    Mobile : 2014, 1y
-    Software : 2022  , 1y
-    DataScience    : 2022  ,1y
-````
 
-![Education](education.jpg)
+![](education.jpg)
 
 # Sectors
 
