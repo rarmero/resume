@@ -25,6 +25,8 @@ gantt
     DataScience    : 2022  ,1y
 ````
 
+![Education](education.jpg)
+
 # Sectors
 
 Projects, invoicing, accounting, inventory, logistics, ERP, CRM, Administration, medical center, Bank, Insurance, SCADA, Industrial : Medicine, Carbon. Integrations

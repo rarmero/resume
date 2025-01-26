@@ -7,7 +7,7 @@ website:
   
   sidebar:
     - id: "tasks" 
-      title: "resume"
+      title: "Resume"
       contents:
         - text: "Sections"
         - "education.qmd"
