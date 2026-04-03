@@ -4,14 +4,39 @@ format: html
 categories: [software development, legacy software, consultan]
 ---
 
-## Applied Viability - AV Group (01/2024 - Present)
+## Funditec (01/2024 - Present)
 
-Insurance Sector.
-Working in an international environment.
-Comunications skills with stakeholders.
+Activity in the insurance sector in an American multinational providing support to Europe (Spain, Germany, Norway, Sweden and Switzerland).
+
+- Creation of documentation and technical mentoring. 
+- Communication with stakeholders.
+- Jira, Confluence
+
+### Achievements
+
+- Creation of technical documentation: work procedures, user guides, onboarding plan.
+- Use of unit testing in API programming.
+- Use of SOLID principles and design patterns.
+- Efficiency in bulk data loading processes.
+- Mentoring a team of ten developers.
+- Migrating the TFS repository to Git.
+- Creating pipelines in GitHub with GitHub Actions.
+- Creating PowerShell utilities to automate processes related to database restores or application deployment, depending on the environment: dev-test-prep.
+- Using workflows with the ServiceNow ticketing tool, as well as communicating with technical staff in the UK, USA, and India in departments such as service desk, networking, Wintel, security and DevOps at the corporate level.
+
+
+### Devops (01/2026 - Present)
+
+In January 2025, I combined development with DevOps activities.
+In 2026, I was transferred to the Operations department.
+I've had the opportunity to be involved in typical IT operations tasks: compliance, regulation, governance, audits, etc.
+
+Technologies: GitHubActions - Powershell - SysAdmin - DbaAdmin - Node.js y Windows. TFVC, GIT 
+
+### Software development & integrations (01/2024 - 12/2025)
 
 Domains:
-Financial, Product.
+Financial, Product, Policies, Quotes, Claims.
 
 Purpouse: New developments and integrations.
 
@@ -22,9 +47,8 @@ SQL Server, T-SQL
 API, Web App, JavaScript. React.
 TFVC, GIT 
 PowerShell
-Jira
-Devops
-Documentation
+
+
 
 
 ## Huxley (10/2023 - 11/2023)
