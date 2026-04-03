@@ -14,6 +14,8 @@ Activity in the insurance sector in an American multinational providing support 
 
 ### Achievements
 
+:::{.callout-note  collapse="false" }
+
 - Creation of technical documentation: work procedures, user guides, onboarding plan.
 - Use of unit testing in API programming.
 - Use of SOLID principles and design patterns.
