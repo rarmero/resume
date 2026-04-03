@@ -12,9 +12,9 @@ Activity in the insurance sector in an American multinational providing support 
 - Communication with stakeholders.
 - Jira, Confluence
 
-### Achievements
 
 :::{.callout-note  collapse="false" }
+### Achievements
 
 - Creation of technical documentation: work procedures, user guides, onboarding plan.
 - Use of unit testing in API programming.
@@ -25,7 +25,7 @@ Activity in the insurance sector in an American multinational providing support 
 - Creating pipelines in GitHub with GitHub Actions.
 - Creating PowerShell utilities to automate processes related to database restores or application deployment, depending on the environment: dev-test-prep.
 - Using workflows with the ServiceNow ticketing tool, as well as communicating with technical staff in the UK, USA, and India in departments such as service desk, networking, Wintel, security and DevOps at the corporate level.
-
+:::
 
 ### Devops (01/2026 - Present)
 
